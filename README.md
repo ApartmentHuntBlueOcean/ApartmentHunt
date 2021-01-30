@@ -1,5 +1,8 @@
 # ApartmentHunt
 
+Visit the deployed website here:
+http://ec2-18-191-106-85.us-east-2.compute.amazonaws.com/
+
 ### OVERVIEW
 Redesign Apartment Hunt’s current website utilizing modern technologies.
 
